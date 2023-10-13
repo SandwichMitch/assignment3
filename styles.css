@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+}
+header {
+    width: 100%; /* Take the full width of the viewport */
+    height: 200px; /* Set the height of the top bar as needed */
+    background-image: url('top-bar-image.jpg'); /* Set the background image URL for the top bar */
+    background-size: cover; /* Cover the entire header with the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+}
